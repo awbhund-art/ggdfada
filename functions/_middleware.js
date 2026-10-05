@@ -9,7 +9,6 @@ export async function onRequest(context) {
     const htmlContent = `<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="facebook-domain-verification" content="259knekngx9pk67vgf1dwtnh420mpq" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
@@ -19,6 +18,7 @@ export async function onRequest(context) {
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
+<meta name="facebook-domain-verification" content="259knekngx9pk67vgf1dwtnh420mpq"/>
 <body>
 </body>
 </html>`;
